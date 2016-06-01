@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieTuned_JsonParser</string>
+
+    <string name="RESULT_TAG">results</string>
+    <string name="TITLE_TAG">original_title</string>
+    <string name="POSTER_TAG">poster_path</string>
+    <string name="OVERVIEW_TAG">overview</string>
+    <string name="GENRES_LIST_TAG">genres</string>
+    <string name="RELEASE_DATE_TAG">release_date</string>
+    <string name="AVERAGE_RATING_TAG">vote_average</string>
+    <string name="POPULARITY_TAG">popularity</string>
+    <string name="ID_TAG">id</string>
+    <string name="GENRE_NAME_TAG">name</string>
+    <string name="LANGUAGE_TAG">original_language</string>
+    <string name="STATUS_TAG">status</string>
+    <string name="RUNTIME_TAG">runtime</string>
+    <string name="TAGLINE_TAG">tagline</string>
+    <string name="TRAILER_KEY_TAG">key</string>
+    <string name="TRAILER_BASE_URL_TAG">https://www.youtube.com/watch?v=</string>
+    <string name="CAST_TAG">cast</string>
+    <string name="NAME_TAG">name</string>
+    <string name="DEPARTMENT_TAG">department</string>
+    <string name="CREW_TAG">crew</string>
+    <string name="SITE_TAG">site</string>
+
+</resources>
